@@ -65,15 +65,11 @@ footer iframe {
             </button>
             <div class="collapse navbar-collapse" id="navbarCollapse">
                <ul class="navbar-nav mr-auto">
-				<?php
-				/*while($row=mysqli_fetch_assoc($res)){
-				?>
+				
 				 <li class="nav-item">
-                     <a class="nav-link" href="?id=<?php echo $row['id']?>"><?php echo $row['page']?></a>
+                     <a class="nav-link" href="index.php">Home</a>
                   </li>
-				<?php
-				}*/
-				?>
+				
                </ul>
             </div>
          </nav>
