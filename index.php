@@ -7,7 +7,7 @@
 	<meta name="description" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="manifest" href="site.webmanifest">
-	<link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico">
+	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 	<!-- CSS here -->
 	<link rel="stylesheet" href="css/bootstrap.min.css">
@@ -30,7 +30,7 @@
         <div class="preloader-inner position-relative">
             <div class="preloader-circle"></div>
             <div class="preloader-img pere-text">
-                <img src="img/logo/loder.jpg" alt="">
+                <img src="logo/loder.jpg" alt="">
             </div>
         </div>
     </div>
@@ -130,12 +130,12 @@
     </div>
     <!-- Services Area End -->
     <!--? About Area Start-->
-    <div class="support-company-area pt-100 pb-100 section-bg fix" data-background="img/gallery/section_bg02.jpg">
+    <div class="support-company-area pt-100 pb-100 section-bg fix" data-background="gallery/section_bg02.jpg">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-xl-6 col-lg-6">
                     <div class="support-location-img">
-                        <img src="img/gallery/about.png" alt="">
+                        <img src="gallery/about.png" alt="">
                     </div>
                 </div>
                 <div class="col-xl-6 col-lg-6">
@@ -173,7 +173,7 @@
                 <div class="col-lg-6 col-md-6 col-sm-10">
                     <div class="single-services mb-100">
                         <div class="services-img">
-                            <img src="img/gallery/services1.png" alt="">
+                            <img src="gallery/services1.png" alt="">
                             </div>
                             <div class="services-caption">
                             <span>Strategy planing</span>
@@ -184,7 +184,7 @@
                 <div class="col-lg-6 col-md-6 col-sm-10">
                     <div class="single-services mb-100">
                         <div class="services-img">
-                            <img src="img/gallery/services2.png" alt="">
+                            <img src="gallery/services2.png" alt="">
                             </div>
                             <div class="services-caption">
                             <span>Strategy planing</span>
@@ -195,7 +195,7 @@
                 <div class="col-lg-6 col-md-6 col-sm-10">
                     <div class="single-services mb-100">
                         <div class="services-img">
-                            <img src="img/gallery/services3.png" alt="">
+                            <img src="gallery/services3.png" alt="">
                             </div>
                             <div class="services-caption">
                             <span>Strategy planing</span>
@@ -206,7 +206,7 @@
                 <div class="col-lg-6 col-md-6 col-sm-10">
                     <div class="single-services mb-100">
                         <div class="services-img">
-                            <img src="img/gallery/services4.png" alt="">
+                            <img src="gallery/services4.png" alt="">
                             </div>
                             <div class="services-caption">
                             <span>Strategy planing</span>
@@ -219,7 +219,7 @@
     </div>
     <!-- Services Ara End -->
     <!--? Testimonial Start -->
-    <div class="testimonial-area testimonial-padding" data-background="img/gallery/section_bg04.jpg">
+    <div class="testimonial-area testimonial-padding" data-background="gallery/section_bg04.jpg">
         <div class="container ">
             <div class="row d-flex justify-content-center">
                 <div class="col-xl-10 col-lg-10 col-md-9">
@@ -240,7 +240,7 @@
                                 <!-- founder -->
                                 <div class="testimonial-founder d-flex align-items-center justify-content-center">
                                     <div class="founder-img">
-                                        <img src="img/gallery/Homepage_testi.png" alt="">
+                                        <img src="gallery/Homepage_testi.png" alt="">
                                     </div>
                                     <div class="founder-text">
                                         <span>Jessya Inn</span>
@@ -265,7 +265,7 @@
                                 <!-- founder -->
                                 <div class="testimonial-founder d-flex align-items-center justify-content-center">
                                     <div class="founder-img">
-                                        <img src="img/gallery/Homepage_testi.png" alt="">
+                                        <img src="gallery/Homepage_testi.png" alt="">
                                     </div>
                                     <div class="founder-text">
                                         <span>Jessya Inn</span>
@@ -333,7 +333,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-">
                     <div class="single-team mb-30">
                         <div class="team-img">
-                            <img src="img/gallery/team2.png" alt="">
+                            <img src="gallery/team2.png" alt="">
                         </div>
                         <div class="team-caption">
                             <h3><a href="#">Ethan Welch</a></h3>
@@ -344,7 +344,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-">
                     <div class="single-team mb-30">
                         <div class="team-img">
-                            <img src="img/gallery/team3.png" alt="">
+                            <img src="gallery/team3.png" alt="">
                         </div>
                         <div class="team-caption">
                             <h3><a href="#">Ethan Welch</a></h3>
@@ -355,7 +355,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-">
                     <div class="single-team mb-30">
                         <div class="team-img">
-                            <img src="img/gallery/team1.png" alt="">
+                            <img src="gallery/team1.png" alt="">
                         </div>
                         <div class="team-caption">
                             <h3><a href="#">Ethan Welch</a></h3>
@@ -368,7 +368,7 @@
     </div>
     <!-- Team End -->
     <!-- Want To work -->
-    <section class="wantToWork-area w-padding2 section-bg" data-background="img/gallery/section_bg03.jpg">
+    <section class="wantToWork-area w-padding2 section-bg" data-background="gallery/section_bg03.jpg">
         <div class="container">
             <div class="row align-items-center justify-content-between">
                 <div class="col-xl-7 col-lg-9 col-md-8">
@@ -400,7 +400,7 @@
                     <div class="home-blog-single mb-30">
                         <div class="blog-img-cap">
                             <div class="blog-img">
-                                <img src="img/gallery/home_blog1.png" alt="">
+                                <img src="gallery/home_blog1.png" alt="">
                                 <ul>
                                     <li>By Admin   -   October 27, 2020</li>
                                 </ul>
@@ -417,7 +417,7 @@
                     <div class="home-blog-single mb-30">
                         <div class="blog-img-cap">
                             <div class="blog-img">
-                                <img src="img/gallery/home_blog2.png" alt="">
+                                <img src="gallery/home_blog2.png" alt="">
                                 <ul>
                                     <li>By Admin   -   October 27, 2020</li>
                                 </ul>
@@ -439,22 +439,22 @@
         <div class="container">
             <div class="brand-active brand-border pb-40">
                 <div class="single-brand">
-                    <img src="img/gallery/brand1.png" alt="">
+                    <img src="gallery/brand1.png" alt="">
                 </div>
                 <div class="single-brand">
-                    <img src="img/gallery/brand2.png" alt="">
+                    <img src="gallery/brand2.png" alt="">
                 </div>
                 <div class="single-brand">
-                    <img src="img/gallery/brand3.png" alt="">
+                    <img src="gallery/brand3.png" alt="">
                 </div>
                 <div class="single-brand">
-                    <img src="img/gallery/brand4.png" alt="">
+                    <img src="gallery/brand4.png" alt="">
                 </div>
                 <div class="single-brand">
-                    <img src="img/gallery/brand2.png" alt="">
+                    <img src="gallery/brand2.png" alt="">
                 </div>
                 <div class="single-brand">
-                    <img src="img/gallery/brand5.png" alt="">
+                    <img src="gallery/brand5.png" alt="">
                 </div>
             </div>
         </div>
@@ -490,7 +490,7 @@
     <script src="./js/jquery.sticky.js"></script>
 
     <!-- counter , waypoint -->
-    <script src="http://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
+    <script src=".js/waypoints.min.js"></script>
     <script src="./js/jquery.counterup.min.js"></script>
     
     <!-- contact js -->
