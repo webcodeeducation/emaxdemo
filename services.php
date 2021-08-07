@@ -135,32 +135,7 @@
             </div>
         </div>
         <!-- Services Area End -->
-        <!-- Brand Area Start -->
-        <div class="brand-area pb-140">
-            <div class="container">
-                <div class="brand-active brand-border pb-40">
-                    <div class="single-brand">
-                        <img src="gallery/brand1.png" alt="">
-                    </div>
-                    <div class="single-brand">
-                        <img src="gallery/brand2.png" alt="">
-                    </div>
-                    <div class="single-brand">
-                        <img src="gallery/brand3.png" alt="">
-                    </div>
-                    <div class="single-brand">
-                        <img src="gallery/brand4.png" alt="">
-                    </div>
-                    <div class="single-brand">
-                        <img src="gallery/brand2.png" alt="">
-                    </div>
-                    <div class="single-brand">
-                        <img src="gallery/brand5.png" alt="">
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Brand Area End -->
+        
     </main>
     <?php include 'inc/footer.php'; ?>
     <!-- Scroll Up -->

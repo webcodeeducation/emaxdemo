@@ -101,57 +101,7 @@
             </div>
         </div>
         <!-- About Area End-->
-        <!-- Team Start -->
-        <div class="team-area section-padding30">
-            <div class="container">
-                <div class="row">
-                    <div class="cl-xl-7 col-lg-8 col-md-10">
-                        <!-- Section Tittle -->
-                        <div class="section-tittle mb-70">
-                            <span>Our Professional members </span>
-                            <h2>Our Team Mambers</h2>
-                        </div> 
-                    </div>
-                </div>
-                <div class="row">
-                    <!-- single Tem -->
-                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-">
-                        <div class="single-team mb-30">
-                            <div class="team-img">
-                                <img src="gallery/team2.png" alt="">
-                            </div>
-                            <div class="team-caption">
-                                <h3><a href="#">Ethan Welch</a></h3>
-                                <span>UX Designer</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-">
-                        <div class="single-team mb-30">
-                            <div class="team-img">
-                                <img src="gallery/team3.png" alt="">
-                            </div>
-                            <div class="team-caption">
-                                <h3><a href="#">Ethan Welch</a></h3>
-                                <span>UX Designer</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-">
-                        <div class="single-team mb-30">
-                            <div class="team-img">
-                                <img src="gallery/team1.png" alt="">
-                            </div>
-                            <div class="team-caption">
-                                <h3><a href="#">Ethan Welch</a></h3>
-                                <span>UX Designer</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Team End -->
+        
         <!--? Testimonial Start -->
         <div class="testimonial-area testimonial-padding" data-background="gallery/section_bg04.jpg">
             <div class="container ">
@@ -250,32 +200,7 @@
             </div>
         </div>
         <!-- Coun Down End -->
-        <!-- Brand Area Start -->
-        <div class="brand-area pt-150 pb-140">
-            <div class="container">
-                <div class="brand-active brand-border pb-40">
-                    <div class="single-brand">
-                        <img src="gallery/brand1.png" alt="">
-                    </div>
-                    <div class="single-brand">
-                        <img src="gallery/brand2.png" alt="">
-                    </div>
-                    <div class="single-brand">
-                        <img src="gallery/brand3.png" alt="">
-                    </div>
-                    <div class="single-brand">
-                        <img src="gallery/brand4.png" alt="">
-                    </div>
-                    <div class="single-brand">
-                        <img src="gallery/brand2.png" alt="">
-                    </div>
-                    <div class="single-brand">
-                        <img src="gallery/brand5.png" alt="">
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Brand Area End -->
+
     </main>
     <?php include 'inc/footer.php'; ?>
     <!-- Scroll Up -->
