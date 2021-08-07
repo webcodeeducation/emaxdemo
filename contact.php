@@ -7,7 +7,7 @@
     <title>Emax Comuter Center </title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico">
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
    <!-- CSS here -->
         <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -30,7 +30,7 @@
             <div class="preloader-inner position-relative">
                 <div class="preloader-circle"></div>
                 <div class="preloader-img pere-text">
-                    <img src="img/logo/loder.jpg" alt="">
+                    <img src="logo/loder.jpg" alt="">
                 </div>
             </div>
         </div>

@@ -7,7 +7,7 @@
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="manifest" href="site.webmanifest">
-		<link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico">
+		<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 		<!-- CSS here -->
             <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -30,7 +30,7 @@
             <div class="preloader-inner position-relative">
                 <div class="preloader-circle"></div>
                 <div class="preloader-img pere-text">
-                    <img src="img/logo/loder.jpg" alt="">
+                    <img src="logo/loder.jpg" alt="">
                 </div>
             </div>
         </div>
@@ -140,22 +140,22 @@
             <div class="container">
                 <div class="brand-active brand-border pb-40">
                     <div class="single-brand">
-                        <img src="img/gallery/brand1.png" alt="">
+                        <img src="gallery/brand1.png" alt="">
                     </div>
                     <div class="single-brand">
-                        <img src="img/gallery/brand2.png" alt="">
+                        <img src="gallery/brand2.png" alt="">
                     </div>
                     <div class="single-brand">
-                        <img src="img/gallery/brand3.png" alt="">
+                        <img src="gallery/brand3.png" alt="">
                     </div>
                     <div class="single-brand">
-                        <img src="img/gallery/brand4.png" alt="">
+                        <img src="gallery/brand4.png" alt="">
                     </div>
                     <div class="single-brand">
-                        <img src="img/gallery/brand2.png" alt="">
+                        <img src="gallery/brand2.png" alt="">
                     </div>
                     <div class="single-brand">
-                        <img src="img/gallery/brand5.png" alt="">
+                        <img src="gallery/brand5.png" alt="">
                     </div>
                 </div>
             </div>
