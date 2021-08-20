@@ -20,13 +20,6 @@
                                             <li><a href="/">Home</a></li>
                                             <li><a href="about.php">About</a></li>
                                             <li><a href="services.php">Services</a></li>
-                                            <li><a href="blog.php">Blog</a>
-                                                <ul class="submenu">
-                                                    <li><a href="blog.php">Blog</a></li>
-                                                    <li><a href="blog_details.php">Blog Details</a></li>
-                                                    <li><a href="elements.php">Element</a></li>
-                                                </ul>
-                                            </li>
                                             <li><a href="contact.php">Contact</a></li>
                                         </ul>
                                     </nav>
